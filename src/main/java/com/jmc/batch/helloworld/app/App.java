@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        List<Integer> numbers=Utils.getPrimaryNumbersFromRange(8, 2000);
+        List<Integer> numbers=Utils.getPrimaryNumbersFromRange(8, 2001);
         Utils.displayNumbersFromList(numbers);
     }
 }
